@@ -1,0 +1,6 @@
+# This file lists the Python packages required by this project.
+# For this specific application, there are no external dependencies
+# as it only uses standard Python libraries (tkinter, json, os).
+
+# If you were to add a library like 'requests', you would add it here:
+# requests==2.28.1
